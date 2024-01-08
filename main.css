@@ -1,0 +1,144 @@
+.container {
+    max-width: 1320px;
+    margin: 0 auto;
+    
+}
+
+header {
+    display: flex;
+    
+}
+
+ul {
+    gap: 80px;
+    Display: flex;
+    margin-left: 1080px;
+    position: absolute;
+    list-style-type: none;
+}
+
+main {
+    width: 1320px;
+    height: 806.39px;
+    top: 105px;
+    left: 290px;
+    /* position: absolute; */
+
+}
+section{
+    width: 1440px;
+    height: 2578.;
+    top: 1031.39px;
+    padding: 0px, 60px, 0px, 60px;
+    position: absolute;
+    /* background-color: chartreuse; */
+    
+     
+}
+.x{
+    width: 1320px;
+    height: 2513.28px;
+    top: 65px;
+    /* left: 0px; */
+    /* position: absolute; */
+     
+}
+.x1{
+    width: 640px;
+    height: 470.66px;
+    left: 680px;
+    top: 50px;
+    position: absolute;
+
+}
+.x2{
+    width: 640px;
+    height: 470.66px;
+    top: 550px;
+    position: absolute;
+
+}
+.x3{
+    width: 640px;
+    height: 470.66px;
+    top: 550px;
+    left: 680px;
+    position: absolute;
+
+}
+.x4{
+    width: 640px;
+    height: 470.66px;
+    top: 1021.31px;
+    padding: 0.3px, 0px, 2.36px, 0px;
+    position: absolute;
+
+}
+.x5{
+    width: 640px;
+    height: 427px;
+    top: 1021.31px;
+  
+    left: 680px;
+    position: absolute;
+
+}
+.x6{
+    width: 640px;
+    height: 427px;
+    top: 1501px;
+    position: absolute; 
+    
+
+}
+.x7{
+    width: 640px;
+    height: 470.;
+    top: 1501px;
+    left: 680px;
+    position: absolute;
+
+}
+.x8{
+    width: 640px;
+    height: 470.66px;
+    top: 1990px;
+    position: absolute;
+
+}
+.x9{
+    width: 640px;
+    height: 470.66px;
+    top: 1990px;
+    left: 680px;
+    position: absolute;
+
+}
+footer{
+    width: 1320px;
+    height: 275px;
+    top: 2530px;
+    left: 60px;
+    /* background-color: blueviolet; */
+    position: absolute;
+    
+
+}
+.y{
+    color: black;
+}
+.e{
+    left: 630px;
+    top: -10px;
+    position: absolute;
+}
+.e1{
+    left: 1180px;
+    top: -10px;
+    position: absolute;
+}
+.e2{
+    left: 870px;
+    top: -10px;
+    position: absolute;
+}
